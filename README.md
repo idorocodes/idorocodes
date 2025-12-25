@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </div>
 
-- 💭 Currently deep-diving into **Rust**
+- 💭 Currently deep-diving into **Rust** and **Solana**
 - 🧠 Building cool stuffs
 - 🔒 Passionate about privacy, anonymous communication, and decentralized intelligence
 - 🧱 Believes in building tools that *actually* matter
@@ -32,8 +32,8 @@
 ### 🧠 My Learning Path
 
 Currently locked into:
-- 📘 300-level CS coursework
-- 🧩 Rust full-stack mastery (Axum, WASM)
+- 📘  CS coursework
+- 🧩 Rust full-stack mastery (Axum,Actix-Web, WASM, Leptos, Dioxus)
 
 
 ---
