@@ -43,7 +43,7 @@ Currently locked into:
 <p align="center">
   <a href="https://twitter.com/idorocodes" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:idoroyen33@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/idorocodes" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  
 </p>
 
 ---
