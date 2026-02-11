@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </div>
 
-- 💭 Currently deep-diving into **Rust** and **Solana**
+- 💭 Currently deep-diving into **Rust**, **Golang** and **Solana**
 - 🧠 Building cool stuffs
 - 🔒 Passionate about privacy, anonymous communication, and decentralized intelligence
 - 🧱 Believes in building tools that *actually* matter
