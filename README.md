@@ -22,10 +22,10 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,ts,react,tailwind,supabase,git,wasm,js,postgresql,mongodb,express,vue" />
+  <img src="https://skillicons.dev/icons?i=rust,ts,react,tailwind,supabase,git,wasm,js,postgresql,mongodb,express,vue,golang" />
 </p>
 
-> **Main Arsenal**: Rust • WASM • Supabase • Axum • Noir • Anchor • React • Tailwind
+> **Main Arsenal**: Rust • WASM • Supabase • Axum • Noir • Anchor • React • Tailwind • Golang
 
 
 
