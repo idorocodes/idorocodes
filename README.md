@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Rustacean+🦀+on+a+mission...;Web3+Builder+%F0%9F%92%BB;CS+Undergrad+%F0%9F%93%9D;...+just+starting!" alt="Typing SVG" />
 </p>
 
----
 
 ###  About Me
 
@@ -17,7 +16,6 @@
 -  Passionate about privacy, anonymous communication, and decentralized intelligence
 -  Believes in building tools that *actually* matter
 
----
 
 ###  Tech Stack
 
@@ -36,7 +34,6 @@ Currently locked into:
 -  Rust full-stack mastery (Axum,Actix-Web, WASM, Leptos, Dioxus)
 
 
----
 
 ###  Connect With Me
 
@@ -46,16 +43,13 @@ Currently locked into:
   
 </p>
 
----
 
 ###  Quote I Live By
 > *“The people who are crazy enough to think they can change the world are the ones who do.”* — Steve Jobs
 
----
 
 ###  Current Goal
 **Become the most dangerous full-stack Rust/Web3 developer in Africa by 2026.**
 
----
 
  *"No fluff. Just focus. Let the code talk."*
