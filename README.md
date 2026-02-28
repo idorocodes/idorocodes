@@ -7,31 +7,18 @@
 
 ###  About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</div>
+
 
 -  Currently deep-diving into **Rust**, **Golang** and **Solana**
 -  Building cool stuffs
--  Passionate about privacy, anonymous communication, and decentralized intelligence
--  Believes in building tools that *actually* matter
+
 
 
 ###  Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,ts,react,tailwind,supabase,git,wasm,js,postgresql,mongodb,express,vue,golang" />
-</p>
-
 > **Main Arsenal**: Rust • WASM • Supabase • Axum • Noir • Anchor • React • Tailwind • Golang
 
 
-
-###  My Learning Path
-
-Currently locked into:
--   CS coursework
--  Rust full-stack mastery (Axum,Actix-Web, WASM, Leptos, Dioxus)
 
 
 
