@@ -16,9 +16,7 @@
 
 ###  Tech Stack
 
-> **Main Arsenal**: Rust • WASM • Supabase • Axum • Noir • Anchor • React • Tailwind • Golang
-
-
+> **Main Arsenal**: Rust • WASM • Supabase • Axum • Noir • Anchor • Actix-Web • Move • Java • Tailwind • Golang
 
 
 
