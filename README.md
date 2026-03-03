@@ -1,7 +1,6 @@
 ## I'm Idorocodes
 
-A systems-oriented software developer and undergraduate in Computer Science, with a specialization in high-performance programming languages.
-
+Systems Engineer focused on distributed systems, storage engines, and blockchain infrastructure.
 
 ### Technical Stack
 Proficient in the following technologies, with a core emphasis on Rust for systems-level programming and Solana for blockchain applications:
@@ -51,5 +50,3 @@ Proficient in the following technologies, with a core emphasis on Rust for syste
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=idorocodes&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Activity%20Graph&hide_border=true" height="300" alt="activity-graph graph" />
 </div>
 
-### Inspirational Quote
-“The people who are crazy enough to think they can change the world are the ones who do.” — Steve Jobs
