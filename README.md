@@ -23,7 +23,7 @@ Proficient in the following technologies, with a core emphasis on Rust for syste
 ### Current Projects
 
 - **[pharaohdb](https://github.com/idorocodes/pharaohdb)**: A lightweight, embedded, file-based database management system implemented in Rust, featuring encryption inspired by Egyptian Hieroglyphs.
-- **[qight](https://github.com/idorocodes/qight)**: An asynchronous, QUIC-based messaging library in Rust, developed for the Rust Africa Hackathon. 
+- **[qight](https://github.com/idorocodes/qight)**: An asynchronous, QUIC-based messaging library in Rust.
 - **[Fark](https://github.com/idorocodes/Fark)**: A framework-agnostic authentication kernel designed for Rust applications. 
 - **[Chola](https://github.com/idorocodes/Chola)**: A student-oriented banking application built in Java, tailored for FUOYE students as part of a CSC 301 project. 
 - **[twik](https://github.com/idorocodes/twik)**: A Web3 crowdfunding protocol constructed on the Sui blockchain using Move, enabling secure on-chain contributions and progress tracking.
