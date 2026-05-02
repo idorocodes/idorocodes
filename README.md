@@ -1,49 +1,39 @@
-## I'm Idorocodes
+# idorocodes
 
-Systems Engineer focused on distributed systems, storage engines, and blockchain infrastructure.
-
-### Technical Stack
-Proficient in the following technologies, with a core emphasis on Rust for systems-level programming and Solana for blockchain applications:
-
-![Rust](https://img.shields.io/badge/Rust-964B00?style=for-the-badge&logo=rust&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Move](https://img.shields.io/badge/Move-000000?style=for-the-badge&logo=move&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![WebAssembly (WASM)](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=axum&logoColor=white)
-![Noir](https://img.shields.io/badge/Noir-000000?style=for-the-badge&logo=noir&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-000000?style=for-the-badge&logo=anchor&logoColor=white)
-![Actix-Web](https://img.shields.io/badge/Actix_Web-000000?style=for-the-badge&logo=actix&logoColor=white)
-
-### Current Projects
-
-- **[pharaohdb](https://github.com/idorocodes/pharaohdb)**: A lightweight, embedded, file-based database management system implemented in Rust, featuring encryption inspired by Egyptian Hieroglyphs.
-- **[qight](https://github.com/idorocodes/qight)**: An asynchronous, QUIC-based messaging library in Rust.
-- **[Fark](https://github.com/idorocodes/Fark)**: A framework-agnostic authentication kernel designed for Rust applications. 
-- **[Chola](https://github.com/idorocodes/Chola)**: A student-oriented banking application built in Java, tailored for FUOYE students as part of a CSC 301 project. 
-- **[twik](https://github.com/idorocodes/twik)**: A Web3 crowdfunding protocol constructed on the Sui blockchain using Move, enabling secure on-chain contributions and progress tracking.
-- **[ECOM](https://github.com/idorocodes/ECOM)**: A dependency-free e-commerce backend developed in Golang, utilizing only standard library tools for robust functionality. 
+Systems engineer focused on distributed systems, storage engines, and blockchain infrastructure.
+Rust core. Solana-native. Building financial and computing primitives for African markets.
 
 
-### Published Rust Crates (on crates.io)
-- **[fark](https://crates.io/crates/fark)** Framework-agnostic Authentication Kernel for Rust.
-- **[idfind](https://crates.io/crates/idfind)**  A command-line tool for searching patterns in files.
-- **[solxplain](https://crates.io/crates/solxplain)** : A CLI utility to inspect Solana accounts and transaction logs similar to the explorer.
-- **[wearust](https://crates.io/crates/wearust)** : An asynchronous Rust library for retrieving weather and location data via WeatherAPI.
+**X:** [@idorocodes](https://x.com/idorocodes) · **LinkedIn:** [Amos John](https://linkedin.com/in/amosj) · **Medium:** [@idorocodes](https://medium.com/@idorocodes)
 
+---
 
+## Projects
 
-### Contact Information
--  Reach me via: [X (@idorocodes)](https://x.com/idorocodes) | [LinkedIn (Amos John)](https://www.linkedin.com/in/idorocodes) | [Medium (@idorocodes)](https://medium.com/@idorocodes)
+| Project | Description | Stack | Notes |
+|---|---|---|---|
+| [pharaohdb](https://github.com/idorocodes/pharaohdb) | Lightweight embedded file-based DB with hieroglyph-inspired encryption, WAL, and secondary indexes | Rust | Storage engine |
+| [qight](https://github.com/idorocodes/qight) | Async QUIC/TLS 1.3 messaging relay with Ed25519 signing, mDNS discovery, and SQLite persistence | Rust | Networking |
+| [Fark](https://crates.io/crates/fark) | Framework-agnostic authentication kernel for Rust applications | Rust | Published crate |
+| [Rhaba](https://github.com/idorocodes/rhaba) | Solana escrow-as-a-service with Kamino Finance yield integration and fiat on/off-ramp | Rust · Anchor · TS
+| [twik](https://github.com/idorocodes/twik) | Web3 crowdfunding protocol on Sui — on-chain contributions with progress tracking | Move | Sui blockchain |
+| [ECOM](https://github.com/idorocodes/ECOM) | Zero-dependency e-commerce backend using Go stdlib only | Go | — |
+| [Chola](https://github.com/idorocodes/chola) | Student-oriented banking app built for FUOYE students (CSC 301) | Java | — |
+| [qight_chat](https://github.com/idorocodes/qight_chat) | CLI P2P chat tool built on qight — zero internet, Raspberry Pi deployable | Rust | — |
 
+---
 
-### GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=idorocodes&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Activity%20Graph&hide_border=true" height="300" alt="activity-graph graph" />
-</div>
+## Published Crates
 
+| Crate | Description |
+|---|---|
+| [fark](https://crates.io/crates/fark) | Framework-agnostic auth kernel for Rust |
+| [idfind](https://crates.io/crates/idfind) | CLI pattern search across files |
+| [solxplain](https://crates.io/crates/solxplain) | CLI inspector for Solana accounts and transaction logs |
+| [wearust](https://crates.io/crates/wearust) | Async Rust library for weather and location data via WeatherAPI |
+
+---
+
+## Stack
+
+`Rust` `Go` `JavaScript` `Java` `Move` `Solana` `Sui` `Anchor` `Axum` `Actix-Web` `WASM` `Supabase` `Tailwind`
